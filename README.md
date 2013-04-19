@@ -28,9 +28,5 @@ In order to keep New File from showing a dock icon (which, IMHO is dumb and poin
 <string>1</string>
 ````
 
-### IAQ (Infrequently asked questions)
-### Why are you doing this?
-I wanted a quick way to add and edit a file's Spotlight comments. When saved as an application from AppleScript Editor, and with a few trivial extra steps, Update Comments can be dragged to the Finder toolbar for easy access.
-
-### Okay, so why not just create a Service?
-I do what I want.
+## Known issues
+Sometimes, when listing comments to remove/replace, comments are duplicated or not listed.
